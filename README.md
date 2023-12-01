@@ -4,7 +4,7 @@
 <div align="center">
 <h1>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" alt="Rocket" width="30px">
-  Anirudh KS Gattu 
+  CRASH AI Agent 
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" alt="Rocket" width="30px">
 </h1>
 
@@ -19,12 +19,12 @@
 </p>
 
 <!-- Expertise ################################################################################################################################################################################################ -->
-<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=M%C3%A9+Exp%C3%A9rtise%E2%80%A6;🔮athlete+%7C+🔺engineer+%7C+☁️believer;thx+for+your+visit!;&font=Fira%20Code&center=true&width=380&height=30"/></a>
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=M%C3%A9+Exp%C3%A9rtise%E2%80%A6;🔮database+%7C+🔺vitals+%7C+☁️emergency;thx+for+your+visit!;&font=Fira%20Code&center=true&width=380&height=30"/></a>
 </h1>
 
-> ### **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+> ### ** Client History!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-- 🌱 Currently learning `Computer Architecture`, `Advanced Topics in Malware`, `AI in Finance`, & `Prototyping Hardware` 
+- 🌱 Currently initalzing `100+ crashes`, `Vital Information`, `Crash Policy`, & `Prototyping Hardware` 
 - <img src="https://emoji.discadia.com/emojis/bb038bfe-bddd-440a-b90c-20c5ee041cb4.PNG" alt="GTxt" width="30"> Undergraduate Researcher @ <a href="https://meritpages.com/agattu"> <b>Georgia Institute of Technology</b>, ATL</a>
 - 📝 I regularly write articles on [Medium](Medium)
 - 🔭 Hosted here whether it be a good link, influential philosophy, or step by step on how I will build my empire
