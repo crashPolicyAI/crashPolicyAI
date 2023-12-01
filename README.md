@@ -26,9 +26,6 @@
 
 - 🌱 Currently initalzing `100+ crashes`, `Vital Information`, `Crash Policy`, & `Prototyping Hardware` 
 - <img src="https://emoji.discadia.com/emojis/bb038bfe-bddd-440a-b90c-20c5ee041cb4.PNG" alt="GTxt" width="30"> Undergraduate Researcher @ <a href="https://meritpages.com/agattu"> <b>Georgia Institute of Technology</b>, ATL</a>
-- 📝 I regularly write articles on [Medium](Medium)
-- 🔭 Hosted here whether it be a good link, influential philosophy, or step by step on how I will build my empire
-
 <!-- CODE DESCRIPTION ############################################################################################################################################################################### -->
  ```ruby
  class ANI < Person
@@ -53,6 +50,34 @@
        studying: [ 'Computer Engineering' ],
        reading: [ 'Rails AntiPatterns', 'Deep Work' ],
        tinkering: [ 'Cloud Infrastrcuture', 'Apple Wallet', 'Openstack Regions' ]
+      }
+   end
+ end
+ ```
+
+ ```ruby
+ class Trey Quinn < Person
+   def initialize
+     @name = 'Robert Quinn'
+     @age = 1999 yob
+     @work = [ 'Georgia Tech', 'Bloomberg', 'Georgia Tech VIP', 'ABLE Alliance' ]
+     @education = [ 'Georgia Institute of Technology', 'TCHS' ]
+     @hobbies = [ 'ML', 'Cerebrel Palsy', 'Organization' ]
+   end
+
+   def current_location
+     'Atlanta, GA, USA'
+   end
+
+   def next_locations
+     ['Lee', 'Miami', 'Gatlinburg', 'Warsaw']
+   end
+
+   def currently
+     {
+       studying: [ 'Computer Science' ],
+       reading: [ 'Madien Times', 'Tensor Flow' ],
+       tinkering: [ 'Equity', 'GenX', 'RobinBank' ]
       }
    end
  end
